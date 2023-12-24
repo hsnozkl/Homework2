@@ -1,0 +1,14 @@
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\bin\Debug\net8.0\Koleksiyonlar-Soru-2.exe
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\bin\Debug\net8.0\Koleksiyonlar-Soru-2.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\bin\Debug\net8.0\Koleksiyonlar-Soru-2.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\bin\Debug\net8.0\Koleksiyonlar-Soru-2.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\bin\Debug\net8.0\Koleksiyonlar-Soru-2.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\Koleksiyonlar-Soru-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\Koleksiyonlar-Soru-2.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\Koleksiyonlar-Soru-2.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\Koleksiyonlar-Soru-2.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\Koleksiyonlar-Soru-2.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\refint\Koleksiyonlar-Soru-2.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\Koleksiyonlar-Soru-2.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\Koleksiyonlar-Soru-2.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Homework2\Koleksiyonlar-Soru-2\obj\Debug\net8.0\ref\Koleksiyonlar-Soru-2.dll
